@@ -12,10 +12,10 @@ The main function opens the file containing the tweets (tweets.txt in this examp
 This is a simple example and may not account for various factors such as context, variations of racial slurs, or other forms of offensive language. Building a comprehensive and accurate profanity detection system requires advanced natural language processing techniques.
 
 2. Which is an interesting data set you discovered recently? Why is it your favorite?
+
 Sol:
-Recently I discover two different datasets 'Census-India' and 'Hospital & Beds In India'
-Both the "India Census" dataset and the "Hospitals and Beds in India" dataset can be valuable resources for learning and gaining insights into different aspects of India's demographics and healthcare infrastructure. Here is how each dataset can be helpful in learning:
-How ever a brief information is attached in 'Why it is interesting' document.
+
+Recently I discover two different datasets 'Census-India' and 'Hospital & Beds In India'. Both the "India Census" dataset and the "Hospitals and Beds in India" dataset can be valuable resources for learning and gaining insights into different aspects of India's demographics and healthcare infrastructure. Here is how each dataset can be helpful in learning; however a brief information is attached in 'Why it is interesting' document.
 
 3. This question is to test your aptitude for writing small shell scripts on Unix. Write a shell script that extracts the Scheme Name and Asset Value fields only from the given url and saves them in a csv file.
 
